@@ -1,7 +1,7 @@
-<!-- cxguard-public-maven:0.17.3 -->
+<!-- cxguard-public-maven:0.18.0 -->
 # CXGuard — Maven público
 
-Repositório de distribuição dos binários comerciais do CXGuard 0.17.3.
+Repositório de distribuição dos binários comerciais do CXGuard 0.18.0.
 Download público e sem autenticação: `https://usantos.github.io/cxguardlib/`.
 O software permanece proprietário; baixar os arquivos não concede licença de uso.
 A licença anual por aplicativo é emitida separadamente pelo fornecedor no painel CXGuard.
@@ -14,8 +14,8 @@ Adicione este Maven em `pluginManagement.repositories` e em
 maven { url = uri("https://usantos.github.io/cxguardlib/") }
 ```
 
-Plugin: `id("br.com.cxguard") version "0.17.3"`.
-Runtime: `implementation("br.com.cxguard:cxguard-runtime:0.17.3")`.
+Plugin: `id("br.com.cxguard") version "0.18.0"`.
+Runtime: `implementation("br.com.cxguard:cxguard-runtime:0.18.0")`.
 Não configure usuário, senha, PAT ou token GitHub para baixar essas dependências.
 Forneça a licença CXGuard separadamente no build:
 `configure<br.com.cxguard.gradle.CXGuardExtension> { licenseTokenFile.set(file("/caminho/privado/aplicativo.license")) }`.
