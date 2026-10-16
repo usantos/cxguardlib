@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>br.com.cxguard</groupId>
+  <artifactId>br.com.cxguard.gradle.plugin</artifactId>
+  <version>0.17.3</version>
+  <packaging>pom</packaging>
+  <name>CXGuard</name>
+  <description>Explicit package instrumentation and authenticated string obfuscation for Android</description>
+  <dependencies>
+    <dependency>
+      <groupId>br.com.cxguard</groupId>
+      <artifactId>cxguard-gradle-plugin</artifactId>
+      <version>0.17.3</version>
+    </dependency>
+  </dependencies>
+</project>
