@@ -1,0 +1,28 @@
+CXGuard — Software proprietário
+
+Copyright (c) 2026 Ubiracy Santos. Todos os direitos reservados.
+
+O código e os componentes próprios do CXGuard são proprietários e
+confidenciais. A posse ou o acesso a uma cópia não concede licença de uso,
+modificação, distribuição, revenda ou sublicenciamento do SDK.
+
+O uso comercial depende de contrato de licença anual por aplicativo,
+assinado com o titular ou representante autorizado, e de token individual
+emitido para o applicationId autorizado, nos termos desse contrato.
+O token deverá ser validado offline por assinatura digital. Seu vencimento
+impede novas compilações e o uso do runtime também em aplicativos já
+instalados, nos limites e condições do contrato.
+
+Apenas o runtime incorporado ao aplicativo expressamente licenciado poderá
+ser distribuído aos seus usuários finais, nos limites do contrato. Não é
+permitido publicar o SDK ou o token de licença em repositórios públicos,
+compartilhar o SDK como produto autônomo, forjar tokens ou contornar os
+mecanismos de licenciamento, ressalvados os direitos obrigatórios previstos
+na legislação aplicável.
+
+Componentes de terceiros mantêm suas próprias licenças e avisos. Este texto
+não restringe direitos concedidos por essas licenças nem substitui o contrato
+comercial firmado entre as partes.
+
+Este aviso define condições jurídicas; não constitui um mecanismo técnico
+de emissão ou validação de tokens.

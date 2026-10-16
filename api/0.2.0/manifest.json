@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "protocol": "CXGAPI2",
+  "version": "0.2.0",
+  "sourceCommit": "03d210f2050ca8b42015da5a981926d658d66a17",
+  "sourceTreeDirty": false,
+  "files": {
+    "api/0.2.0/CXGuard.ApiProtection.0.2.0.nupkg": "00d335d3df90d0ab08fdaa90da10d4dc838b014a1ea4f7aad6de8af944c87c33",
+    "api/0.2.0/LICENSE-CXGuard.txt": "ddffce38d2138b00c4867fe815c404f208266784cb460a202aa18476a50407a1",
+    "api/0.2.0/NOTICE.txt": "159c166a302e8152f914fb54475e158df79f8dc8d68d0b77ac805ef7c96db6db",
+    "api/0.2.0/README.md": "0187b1201ae71611234fdc302ae5ffc2a84fdcc93bb1310b0b571793635f8bc1",
+    "api/0.2.0/cxguard-api-server-0.2.0.tgz": "3dc5062c150b967a68d52c6e33afb2f1b141b4386ccdbf3a1a8a1083d58789c5",
+    "br/com/cxguard/cxguard-api-server/0.2.0/cxguard-api-server-0.2.0.jar": "9e80402412401ead876cc31f21826288c1736774e7f462f600cd17df47927511",
+    "br/com/cxguard/cxguard-api-server/0.2.0/cxguard-api-server-0.2.0.pom": "0ca1c1d6f429880a4517612668a4f46c45cfc234d2c788a90979e614b792f3be"
+  }
+}
