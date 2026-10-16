@@ -1,0 +1,1 @@
+CXGuard API Server commercial software; backend libraries have no third-party runtime dependencies. SQL drivers in examples are separate.
